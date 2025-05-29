@@ -8,7 +8,7 @@
     <div class="min-h-screen flex flex-col relative">
       <!-- Top bar: Logo and Menu -->
       <header class="flex justify-between items-center p-6 z-10">
-        <img src="/home/jurgen/landing_pages/wolvesart/src/components/img/Vector.png" alt="Logo" class="h-8"/>
+        <img src="./components/img/Vector.png" alt="Logo" class="h-8"/>
         <button class="bg-white text-black rounded-full px-6 py-2 font-medium hover:bg-gray-100 transition-colors duration-300">
           MENU
         </button>
@@ -48,36 +48,36 @@
           <div class="inline-flex">
             <!-- First complete set -->
             <span class="inline-flex items-center mx-12">
-              <img src="/home/jurgen/landing_pages/wolvesart/src/components/img/star-outline.svg.png" alt="star" class="h-4 w-4 mr-4 opacity-60"/>
+              <img src="./components/img/star-outline.svg.png" alt="star" class="h-4 w-4 mr-4 opacity-60"/>
               Directrice Artistique
             </span>
             <span class="inline-flex items-center mx-12">
-              <img src="/home/jurgen/landing_pages/wolvesart/src/components/img/star-outline.svg.png" alt="star" class="h-4 w-4 mr-4 opacity-60"/>
+              <img src="./components/img/star-outline.svg.png" alt="star" class="h-4 w-4 mr-4 opacity-60"/>
               Webdesign
             </span>
             <span class="inline-flex items-center mx-12">
-              <img src="/home/jurgen/landing_pages/wolvesart/src/components/img/star-outline.svg.png" alt="star" class="h-4 w-4 mr-4 opacity-60"/>
+              <img src="./components/img/star-outline.svg.png" alt="star" class="h-4 w-4 mr-4 opacity-60"/>
               Print
             </span>
             <span class="inline-flex items-center mx-12">
-              <img src="/home/jurgen/landing_pages/wolvesart/src/components/img/star-outline.svg.png" alt="star" class="h-4 w-4 mr-4 opacity-60"/>
+              <img src="./components/img/star-outline.svg.png" alt="star" class="h-4 w-4 mr-4 opacity-60"/>
               Illustration
             </span>
             <!-- Duplicate set for seamless loop -->
             <span class="inline-flex items-center mx-12">
-              <img src="/home/jurgen/landing_pages/wolvesart/src/components/img/star-outline.svg.png" alt="star" class="h-4 w-4 mr-4 opacity-60"/>
+              <img src="./components/img/star-outline.svg.png" alt="star" class="h-4 w-4 mr-4 opacity-60"/>
               Directrice Artistique
             </span>
             <span class="inline-flex items-center mx-12">
-              <img src="/home/jurgen/landing_pages/wolvesart/src/components/img/star-outline.svg.png" alt="star" class="h-4 w-4 mr-4 opacity-60"/>
+              <img src="./components/img/star-outline.svg.png" alt="star" class="h-4 w-4 mr-4 opacity-60"/>
               Webdesign
             </span>
             <span class="inline-flex items-center mx-12">
-              <img src="/home/jurgen/landing_pages/wolvesart/src/components/img/star-outline.svg.png" alt="star" class="h-4 w-4 mr-4 opacity-60"/>
+              <img src="./components/img/star-outline.svg.png" alt="star" class="h-4 w-4 mr-4 opacity-60"/>
               Print
             </span>
             <span class="inline-flex items-center mx-12">
-              <img src="/home/jurgen/landing_pages/wolvesart/src/components/img/star-outline.svg.png" alt="star" class="h-4 w-4 mr-4 opacity-60"/>
+              <img src="./components/img/star-outline.svg.png" alt="star" class="h-4 w-4 mr-4 opacity-60"/>
               Illustration
             </span>
           </div>
@@ -90,36 +90,36 @@
           <div class="inline-flex">
             <!-- First complete set -->
             <span class="inline-flex items-center mx-12">
-              <img src="/home/jurgen/landing_pages/wolvesart/src/components/img/star-outline.svg.png" alt="star" class="h-4 w-4 mr-4 opacity-60"/>
+              <img src="./components/img/star-outline.svg.png" alt="star" class="h-4 w-4 mr-4 opacity-60"/>
               UI Design
             </span>
             <span class="inline-flex items-center mx-12">
-              <img src="/home/jurgen/landing_pages/wolvesart/src/components/img/star-outline.svg.png" alt="star" class="h-4 w-4 mr-4 opacity-60"/>
+              <img src="./components/img/star-outline.svg.png" alt="star" class="h-4 w-4 mr-4 opacity-60"/>
               UX Design
             </span>
             <span class="inline-flex items-center mx-12">
-              <img src="/home/jurgen/landing_pages/wolvesart/src/components/img/star-outline.svg.png" alt="star" class="h-4 w-4 mr-4 opacity-60"/>
+              <img src="./components/img/star-outline.svg.png" alt="star" class="h-4 w-4 mr-4 opacity-60"/>
               Motion Design
             </span>
             <span class="inline-flex items-center mx-12">
-              <img src="/home/jurgen/landing_pages/wolvesart/src/components/img/star-outline.svg.png" alt="star" class="h-4 w-4 mr-4 opacity-60"/>
+              <img src="./components/img/star-outline.svg.png" alt="star" class="h-4 w-4 mr-4 opacity-60"/>
               Interactive Design
             </span>
             <!-- Duplicate set for seamless loop -->
             <span class="inline-flex items-center mx-12">
-              <img src="/home/jurgen/landing_pages/wolvesart/src/components/img/star-outline.svg.png" alt="star" class="h-4 w-4 mr-4 opacity-60"/>
+              <img src="./components/img/star-outline.svg.png" alt="star" class="h-4 w-4 mr-4 opacity-60"/>
               UI Design
             </span>
             <span class="inline-flex items-center mx-12">
-              <img src="/home/jurgen/landing_pages/wolvesart/src/components/img/star-outline.svg.png" alt="star" class="h-4 w-4 mr-4 opacity-60"/>
+              <img src="./components/img/star-outline.svg.png" alt="star" class="h-4 w-4 mr-4 opacity-60"/>
               UX Design
             </span>
             <span class="inline-flex items-center mx-12">
-              <img src="/home/jurgen/landing_pages/wolvesart/src/components/img/star-outline.svg.png" alt="star" class="h-4 w-4 mr-4 opacity-60"/>
+              <img src="./components/img/star-outline.svg.png" alt="star" class="h-4 w-4 mr-4 opacity-60"/>
               Motion Design
             </span>
             <span class="inline-flex items-center mx-12">
-              <img src="/home/jurgen/landing_pages/wolvesart/src/components/img/star-outline.svg.png" alt="star" class="h-4 w-4 mr-4 opacity-60"/>
+              <img src="./components/img/star-outline.svg.png" alt="star" class="h-4 w-4 mr-4 opacity-60"/>
               Interactive Design
             </span>
           </div>
@@ -132,7 +132,7 @@
       <div class="grid md:grid-cols-2 gap-8">
         <!-- Project 1 - Digital Platform -->
         <div class="group bg-gradient-to-br from-blue-600 to-blue-800 rounded-2xl p-8 h-80 flex flex-col justify-between relative overflow-hidden cursor-pointer transform transition-all duration-300 hover:-translate-y-2 hover:shadow-2xl hover:shadow-blue-500/20">
-          <img src="/home/jurgen/landing_pages/wolvesart/src/components/img/screen.png" alt="Digital Platform" class="absolute inset-0 w-full h-full object-cover rounded-2xl opacity-80 group-hover:opacity-100 transition-opacity duration-300 z-0"/>
+          <img src="./components/img/screen.png" alt="Digital Platform" class="absolute inset-0 w-full h-full object-cover rounded-2xl opacity-80 group-hover:opacity-100 transition-opacity duration-300 z-0"/>
           <div class="z-10">
             <h3 class="text-2xl font-bold mb-2 group-hover:text-blue-100 transition-colors">Digital Platform</h3>
             <p class="text-blue-100 opacity-80 text-sm tracking-wide">Web Development • UI/UX</p>
@@ -145,7 +145,7 @@
 
         <!-- Project 2 - OPENTRI -->
         <div class="group bg-gradient-to-br from-blue-500 to-cyan-600 rounded-2xl p-8 h-80 flex flex-col justify-between relative overflow-hidden cursor-pointer transform transition-all duration-300 hover:-translate-y-2 hover:shadow-2xl hover:shadow-cyan-500/20">
-           <img src="/home/jurgen/landing_pages/wolvesart/src/components/img/watter.png" alt="OPENTRI" class="absolute inset-0 w-full h-full object-cover rounded-2xl opacity-80 group-hover:opacity-100 transition-opacity duration-300 z-0"/>
+           <img src="./components/img/watter.png" alt="OPENTRI" class="absolute inset-0 w-full h-full object-cover rounded-2xl opacity-80 group-hover:opacity-100 transition-opacity duration-300 z-0"/>
           <div class="z-10">
             <h3 class="text-3xl font-bold mb-2 group-hover:text-cyan-100 transition-colors">OPENTRI</h3>
             <p class="text-cyan-100 opacity-80 text-sm tracking-wide">Brand Identity • Digital</p>
@@ -158,7 +158,7 @@
 
         <!-- Project 3 - Creative Studio -->
         <div class="group bg-gradient-to-br from-purple-900 to-black rounded-2xl p-8 h-80 flex flex-col justify-between relative overflow-hidden cursor-pointer transform transition-all duration-300 hover:-translate-y-2 hover:shadow-2xl hover:shadow-purple-500/20">
-           <img src="/home/jurgen/landing_pages/wolvesart/src/components/img/volcano.png" alt="Creative Studio" class="absolute inset-0 w-full h-full object-cover rounded-2xl opacity-80 group-hover:opacity-100 transition-opacity duration-300 z-0"/>
+           <img src="./components/img/volcano.png" alt="Creative Studio" class="absolute inset-0 w-full h-full object-cover rounded-2xl opacity-80 group-hover:opacity-100 transition-opacity duration-300 z-0"/>
           <div class="z-10">
             <h3 class="text-2xl font-bold mb-2 group-hover:text-purple-200 transition-colors">Creative Studio</h3>
             <p class="text-purple-200 opacity-80 text-sm tracking-wide">Visual Identity • Print</p>
@@ -171,7 +171,7 @@
 
         <!-- Project 4 - LAUNCH -->
         <div class="group bg-gradient-to-br from-indigo-600 to-purple-700 rounded-2xl p-8 h-80 flex flex-col justify-between relative overflow-hidden cursor-pointer transform transition-all duration-300 hover:-translate-y-2 hover:shadow-2xl hover:shadow-indigo-500/20">
-           <img src="/home/jurgen/landing_pages/wolvesart/src/components/img/eagle.png" alt="LAUNCH" class="absolute inset-0 w-full h-full object-cover rounded-2xl opacity-80 group-hover:opacity-100 transition-opacity duration-300 z-0"/>
+           <img src="./components/img/eagle.png" alt="LAUNCH" class="absolute inset-0 w-full h-full object-cover rounded-2xl opacity-80 group-hover:opacity-100 transition-opacity duration-300 z-0"/>
           <div class="z-10">
             <h3 class="text-3xl font-bold mb-2 group-hover:text-indigo-200 transition-colors">LAUNCH</h3>
             <p class="text-indigo-200 opacity-80 text-sm tracking-wide">Product Launch • Campaign</p>
